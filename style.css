@@ -1,0 +1,70 @@
+p {
+    color: red;
+    letter-spacing: 0.5em;
+    word-spacing: 2em;
+    line-height: 1.5;
+    text-align: center;
+}
+
+a {
+    color: blue;
+}
+
+
+body {
+    font-size: 14px;
+    color: navy;
+    background-image: url("http://www.bypeople.com/wp-content/uploads/2014/05/light-live-background-css.jpg");
+
+    font-family: arial, helvetica, sans-serif;
+
+    /* align-items: center; */
+}
+
+h1 {
+    color: rgb(0, 38, 255);
+    background-color: rgb(140, 193, 202);
+    font-size: 1.5em;
+}
+
+h2 {
+    color: #bc0012;
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+}
+
+a {
+    text-decoration: none;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+    color: rgb(78, 94, 235);
+}
+
+h3{
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+    text-align: center;
+
+}
+
+li {
+    color: #900;
+    font-style: italic;
+}
+
+table {
+    background-color: #ccc;
+}
+
+#yle{
+    align-content: center;
+    margin-left: 500px;
+}
